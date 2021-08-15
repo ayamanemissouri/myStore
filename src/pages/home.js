@@ -59,7 +59,7 @@ export default function Home() {
       <div><img src='https://images.unsplash.com/photo-1531747118685-ca8fa6e08806?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=642&q=80'></img></div>
       </CardColumns>
       <Row className=' alignItem mt-5'>
-        <h1>FEATURED</h1>
+        <h1>Featured</h1>
       </Row>
       <Row className=' alignItem mt-3'>{productComponents}</Row>
     </>
